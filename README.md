@@ -1,4 +1,4 @@
-# Spelling Corrector — NLP Group Assignment (Question 3)
+# Spelling Corrector — NLP
 
 A spelling corrector built on the NLTK **Brown corpus** that:
 
